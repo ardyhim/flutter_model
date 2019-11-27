@@ -6,6 +6,8 @@
 
 - [dots_indicator]
 
+---
+
 [Twitter] - [Facebook] - [Youtube] - [Donation][dots_indicator]: <https://pub.dev/packages/dots_indicator>
 [Twitter]: <https://twitter.com/ardyhim>
 [Facebook]: <https://www.facebook.com/ardyhim>
